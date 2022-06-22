@@ -1,4 +1,4 @@
-Hi 👋 My name is Ernestas Milinskas,
+Hi 👋 My name is Ernestas Milinskas
 ====================================
 
 a Games and Software Engineer
