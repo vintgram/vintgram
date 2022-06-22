@@ -1,5 +1,10 @@
 Hi 👋 My name is Ernestas Milinskas,
-====================================a Games and Software Engineer-----------------------------I am a former student of University Of Lincoln looking for employment within software/game development with a big interest in Virtual Reality.* 🌍  I'm based in Scunthorpe, North Lincolnshire* 🖥️  See my portfolio at [Check out my Linkedin](http://www.linkedin.com/in/ernestas-milinskas-902998161/)* ✉️  You can contact me at [ernestas.milinskas@gmail.com](mailto:ernestas.milinskas@gmail.com)* 🧠  I'm learning Web development while also improving my C# skills
+====================================
+
+a Games and Software Engineer
+-----------------------------
+
+I am a former student of University Of Lincoln looking for employment within software/game development with a big interest in Virtual Reality.* 🌍  I'm based in Scunthorpe, North Lincolnshire* 🖥️  See my portfolio at [Check out my Linkedin](http://www.linkedin.com/in/ernestas-milinskas-902998161/)* ✉️  You can contact me at [ernestas.milinskas@gmail.com](mailto:ernestas.milinskas@gmail.com)* 🧠  I'm learning Web development while also improving my C# skills
 
 ### Skills
 
