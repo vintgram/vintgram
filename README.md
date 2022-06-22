@@ -1,7 +1,7 @@
 Hi 👋 My name is Ernestas Milinskas
 ====================================
 
-a Games and Software Engineer
+Games and Software Engineer
 -----------------------------
 
 I am a former student of University Of Lincoln looking for employment within software/game development with a big interest in Virtual Reality.
