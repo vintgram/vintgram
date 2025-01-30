@@ -24,6 +24,7 @@ I am a former student of University Of Lincoln looking for employment within sof
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/vintgram"><img src= "https://github-readme-stats.vercel.app/api?username=vintgram&theme=dark&show_icons=true&hide_border=true&count_private=true" /></a>
+
 <a href="http://www.github.com/vintgram"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vintgram&theme=dark&show_icons=true&hide_border=true&layout=compact"/></a>
 
 <b>Top Repositories</b>
