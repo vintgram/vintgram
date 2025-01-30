@@ -22,6 +22,7 @@ I am a former student of University Of Lincoln looking for employment within sof
 ### Badges
 
 <b>My GitHub Stats</b>
+
 <a href="http://www.github.com/vintgram"><img src= "https://github-readme-stats.vercel.app/api?username=vintgram&theme=dark&show_icons=true&hide_border=true&count_private=true" /></a>
 
 <a href="http://www.github.com/vintgram"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=vintgram&theme=dark&hide_border=true"/></a>
