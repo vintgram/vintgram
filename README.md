@@ -22,10 +22,11 @@ I am a former student of University Of Lincoln looking for employment within sof
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/vintgram"><img src="https://github-readme-stats.vercel.app/api?username=vintgram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vintgram's GitHub stats" /></a>
-
 <a href="http://www.github.com/vintgram"><img src= "https://github-readme-stats.vercel.app/api?username=vintgram&theme=dark&show_icons=true&hide_border=true&count_private=true" /></a>
+
+<a href="http://www.github.com/vintgram"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=vintgram&theme=dark&hide_border=true"/></a>
+
+<a href="http://www.github.com/vintgram"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vintgram&theme=dark&show_icons=true&hide_border=true&layout=compact"/></a>
 
 <b>Top Repositories</b>
 
