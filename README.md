@@ -1,7 +1,7 @@
 Hi 👋 My name is Ernestas Milinskas
 ====================================
 
-Games and Software Engineer
+Software Engineer
 -----------------------------
 
 I am a Senior Games Developer at VISR Dynamics.
