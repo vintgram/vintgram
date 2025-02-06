@@ -4,12 +4,12 @@ Hi 👋 My name is Ernestas Milinskas
 Games and Software Engineer
 -----------------------------
 
-I am a former student of University Of Lincoln looking for employment within software/game development with a big interest in Virtual Reality.
+I am a Senior Games Developer at VISR Dynamics.
 
 * 🌍  I'm based in Hull.
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/ernestas-milinskas-902998161/)
 * ✉️  You can contact me at [ernestas.milinskas@gmail.com](mailto:ernestas.milinskas@gmail.com)
-* 🧠  I'm learning Web development while also improving my C# skills
+* 🧠  I'm currently learning web development with Babylon3D, seeking to expand my skills in software development.
 
 ### Skills
 
