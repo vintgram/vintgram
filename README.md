@@ -6,7 +6,7 @@ Software Engineer
 
 Currently, I am a Senior Games Developer at VISR Dynamics.
 
-* 🌍  I'm based in Hull.
+* 🌍  I'm based in Hull but willing to relocate.
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/ernestas-milinskas-902998161/)
 * ✉️  You can contact me at [ernestas.milinskas@gmail.com](mailto:ernestas.milinskas@gmail.com)
 * 🧠  I'm currently learning web development with Babylon3D, seeking to expand my skills in software development.
