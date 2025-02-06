@@ -4,7 +4,7 @@ Hi 👋 My name is Ernestas Milinskas
 Software Engineer
 -----------------------------
 
-I am a Senior Games Developer at VISR Dynamics.
+Currently, I am a Senior Games Developer at VISR Dynamics.
 
 * 🌍  I'm based in Hull.
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/ernestas-milinskas-902998161/)
